@@ -56,7 +56,8 @@ This is the detailed report about the design of operational amplifier. This desi
 
 #### Differential Amplifier Circuit Schematic
 
-<img width="1440" alt="Screenshot 2022-02-27 at 10 41 50 PM" src="https://user-images.githubusercontent.com/100516989/155892302-988925e6-2f5f-4dd9-ad8e-c74fc1b117a2.png">
+<img width="1440" alt="Screenshot 2022-02-27 at 10 41 50 PM" src="https://user-images.githubusercontent.com/100516989/155892454-4d5b4585-017e-4346-8285-28d9d337a2e9.png">
+
 
 #### Differential Amplifier Circuit Symbol
 
