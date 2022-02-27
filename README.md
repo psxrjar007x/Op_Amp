@@ -4,7 +4,7 @@ This is the detailed report about the design of operational amplifier. This desi
 ## Contents
 * [Introduction](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#introduction)
 * [Circuit Implementation](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#circuit-implementation)
-* [Reference Circuit & otput waveform](
+* [Reference Circuit & output waveform](
 * [Tools Used](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#tools-used)
 * [Schematics & Symbols](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#schematics--symbols)
 * [Circuit Prameters](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#circuit-prameters)
@@ -34,7 +34,7 @@ This is the detailed report about the design of operational amplifier. This desi
 ### Gain & Output stage 
    A common source mode with active load is used to produce necessary gain and for output stage i.e. to get very low output impedance, an nmos transistor was biased using current mirror and the expected output is taken from the source of the nmos transistor.
 
-## Reference Circuit & otput waveform
+## Reference Circuit & output waveform
 
 ### Circuit 
 
