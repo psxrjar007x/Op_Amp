@@ -43,6 +43,49 @@ The schematics and symbols for the [differential stage](https://github.com/psxrj
 
 This stage was designed as a schematic and then implemented as a symbol for later integration into the final circuit of the opamp.
 
-#### Inverting Circuit
+#### Inverting Circuit Schematic
 
 <img width="1440" alt="Screenshot 2022-02-27 at 6 52 00 PM" src="https://user-images.githubusercontent.com/100516989/155888924-bddce70d-8369-4cae-aba5-39d03cbd24af.png">
+
+#### Inverting Circuit Symbol
+
+<img width="1440" alt="Screenshot 2022-02-27 at 6 52 13 PM" src="https://user-images.githubusercontent.com/100516989/155888986-272e506e-955c-491b-9d8f-d523e68cf03b.png">
+
+#### Differential Amplifier Circuit Schematic
+
+<img width="1440" alt="Screenshot 2022-02-27 at 6 52 42 PM" src="https://user-images.githubusercontent.com/100516989/155889013-073bdf9c-9d77-4d09-8d8b-fd39c3de4867.png">
+
+#### Differential Amplifier Circuit Symbol
+
+<img width="1440" alt="Screenshot 2022-02-27 at 6 53 10 PM" src="https://user-images.githubusercontent.com/100516989/155889044-816356e9-aa0f-4b0a-89c8-93f674ef9726.png">
+
+### Gain Stage
+
+This stage was designed as a schematic and then implemented as a symbol for later integration into the final circuit of the opamp.
+
+#### Gain stage Circuit Schematic
+
+<img width="1440" alt="Screenshot 2022-02-27 at 6 54 22 PM" src="https://user-images.githubusercontent.com/100516989/155889094-7fb0dad1-7357-4c92-a6d0-8c13644d835e.png">
+
+#### Gain stage Circuit Symbol
+
+<img width="1440" alt="Screenshot 2022-02-27 at 6 54 29 PM" src="https://user-images.githubusercontent.com/100516989/155889108-5d5f45db-0a3c-4d88-94a9-959d7cfc8ed1.png">
+
+### Output Stage
+
+This stage was designed as a schematic and then implemented as a symbol for later integration into the final circuit of the opamp.
+
+#### Output stage Circuit Schematic
+
+<img width="1440" alt="Screenshot 2022-02-27 at 6 55 38 PM" src="https://user-images.githubusercontent.com/100516989/155889146-be0d22c7-32fb-4d0d-838a-a5bd9f106258.png">
+
+#### Output stage Circuit Symbol
+
+<img width="1440" alt="Screenshot 2022-02-27 at 6 55 52 PM" src="https://user-images.githubusercontent.com/100516989/155889157-646593fe-1a5e-49d2-9d87-334faf8e45ea.png">
+
+### OpAmp Circuit Schematic 
+
+All the symbols from the previous stage and other active and passive elements along with bias voltages and test input sinusoidal signal were connected to get the required opamp circuit
+
+<img width="1440" alt="Screenshot 2022-02-27 at 6 50 24 PM" src="https://user-images.githubusercontent.com/100516989/155889233-ff47f052-c183-44f1-9db6-e93f318d3186.png">
+
