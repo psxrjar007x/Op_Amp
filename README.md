@@ -2,4 +2,4 @@
 IITH_&amp;_Synopsys_Hackathon
 
 ## Contents
-*Introduction
+* Introduction
