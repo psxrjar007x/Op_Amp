@@ -95,4 +95,9 @@ This is the detailed report about the design of operational amplifier. This desi
 
    This circuit design has no influence in the mos parameters, so everything was set to default; except at the [gain stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#gain-stage) where the M18 nmos has 4 times the width compared to other transistors to get 1/4th of the current used in other stages.
 
-   Voltage 
+   Voltage dividers were designed using resistors to get DC 1.25v at the gate of M2 & M3 nmos in [differential stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#differential-stage-1).
+   
+   Capacitance of the capacitors were chosen as 10μF.
+ 
+ 
+   
