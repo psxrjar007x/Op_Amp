@@ -4,6 +4,7 @@ This is the detailed report about the design of operational amplifier. This desi
 ## Contents
 * [Introduction](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#introduction)
 * [Circuit Implementation](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#circuit-implementation)
+* [Reference Circuit & otput waveform](
 * [Tools Used](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#tools-used)
 * [Schematics & Symbols](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#schematics--symbols)
 * [Circuit Prameters](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#circuit-prameters)
@@ -98,6 +99,31 @@ This is the detailed report about the design of operational amplifier. This desi
    Voltage dividers were designed using resistors to get DC 1.25v at the gate of M2 & M3 nmos in [differential stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#differential-stage-1).
    
    Capacitance of the capacitors were chosen as 10μF.
- 
- 
    
+   Input test signal is choosed as a sinusoidal wave with 2.5mV Vpeak and 100KHz frequency.
+ 
+## Simulation & Waveform
+
+The simulation of the opamp circuit was obtained through PrimeWave™ Design Environment using its TestSuite and Waveform viewer.
+
+### Testbench Settings
+
+   * Go to tools > primesim
+   * In primesim select the model file (/PDK/SAED_PDK32nm/hspice).
+   * Select the type of analysis;
+         * Analysis type -> tran
+         * Start time -> 0
+         * Stop time -> 0.05ms
+   * Select the nodes to diplay
+         * v(Ninput)
+         * v(Noutf)
+
+<img width="1440" alt="Screenshot 2022-02-27 at 6 50 33 PM" src="https://user-images.githubusercontent.com/100516989/155891423-1cbae780-8956-4ef6-b1ae-5788ca11370a.png">
+
+### Output
+
+   * Simulation > netlist&run
+
+<img width="1440" alt="Screenshot 2022-02-27 at 6 51 06 PM" src="https://user-images.githubusercontent.com/100516989/155891451-2e4c6566-0e97-46bf-99f2-d9446e25e3e4.png">
+  
+
