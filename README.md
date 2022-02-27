@@ -144,4 +144,4 @@ The simulation of the opamp circuit was obtained through PrimeWave™ Design Env
 
 ### netlist.txt
 
-[netlist.rtf]("https://github.com/psxrjar007x/Op_Amp/blob/main/netlist.rtf")
+[netlist\.rtf]("https://github.com/psxrjar007x/Op_Amp/blob/main/netlist.rtf")
