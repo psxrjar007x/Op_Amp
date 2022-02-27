@@ -4,7 +4,7 @@ This is the detailed report about the design of operational amplifier. This desi
 ## Contents
 * [Introduction](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#introduction)
 * [Circuit Implementation](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#circuit-implementation)
-* [Reference Circuit & output waveform](
+* [Reference Circuit & output waveform](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#reference-circuit--output-waveform)
 * [Tools Used](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#tools-used)
 * [Schematics & Symbols](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#schematics--symbols)
 * [Circuit Prameters](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#circuit-prameters)
