@@ -3,7 +3,7 @@ This is the detailed report about the design of operational amplifier. This desi
 
 ## Contents
 * [Introduction](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#introduction)
-* [Circuit Implementation]()
+* [Circuit Implementation](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#circuit-implementation)
 * [Tools Used]()
 * [Schematics]()
 * [Simulation & Waveform]()
@@ -17,7 +17,7 @@ An operational amplifier was designed using 28nm process.Focusing on single inpu
 
 ## Circuit Implementation
 The circuit mainly consists of three main stages;
-*         Differential stage
-*               inverting 
-*               differential
+* Differential stage
+*  inverting 
+*  differential
 *         
