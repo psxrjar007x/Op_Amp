@@ -20,8 +20,8 @@ The circuit mainly consists of three main stages;
 * [Differential stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#differential-stage)
     * Inverting 
     * Differential pair
-* [Gain stage]
-* [Output stage]
+* [Gain stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#gain--output-stage)
+* [Output stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#gain--output-stage)
 
 ### Differential stage
 This stage has two sub stages an [inverting](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#inverting) and an actual differential pair stages.
