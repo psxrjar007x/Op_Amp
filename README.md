@@ -10,7 +10,7 @@ This is the detailed report about the design of operational amplifier. This desi
 * [Circuit Prameters](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#circuit-prameters)
 * [Simulation & Waveform](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#simulation--waveform)
 * [Netlist](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#netlist)
-* [Conclusion]()
+* [Conclusion](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#conclusion)
 * [Author]()
 * [Acknowledgement]()
 * [References]()
