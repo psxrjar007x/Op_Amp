@@ -144,11 +144,11 @@ The simulation of the opamp circuit was obtained through PrimeWave™ Design Env
 
 ### netlist.txt
 
->\*  Generated for: PrimeSim
->\*  Design library name: Abishek
->\*  Design cell name: opamp
->\*  Design view name: schematic
->\.lib 'saed32nm.lib' TT
+>\ *  Generated for: PrimeSim
+>\ *  Design library name: Abishek
+>\ *  Design cell name: opamp
+>\ *  Design view name: schematic
+>\ .lib 'saed32nm.lib' TT
 >\
 >\*Custom Compiler Version S-2021.09
 >\*Sun Feb 27 13:27:46 2022
