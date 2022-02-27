@@ -30,3 +30,8 @@ This stage has a small signal voltage gain equals to negative one
 
 ### Gain & Output stage 
 A common source mode with active load is used to produce necessary gain and for output stage i.e. to get very low output impedance, an nmos transistor was biased using current mirror and the expected output is taken from the source of the nmos transistor.
+
+## Tools Used
+* Synopsys Custom Compiler : A design environment which used for full-custom analog, custom digital, and mixed-signal IC design.
+* Synopsys Primewave : For simulating the designed circuits under different conditions and time scales.
+* Synopsys 28 nm PDK : A process design kit which has a comprehensive collection of 28nm transistor sets and libraries.
