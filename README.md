@@ -143,5 +143,28 @@ The simulation of the opamp circuit was obtained through PrimeWave™ Design Env
 <img width="1440" alt="Screenshot 2022-02-27 at 7 00 40 PM" src="https://user-images.githubusercontent.com/100516989/155893921-4b24d5b6-8def-4686-8d47-dc7b5a07f93e.png">
 
 ### netlist.txt
+("https://github.com/psxrjar007x/Op_Amp/blob/main/netlist.rtf")
 
-[netlist\.rtf]("https://github.com/psxrjar007x/Op_Amp/blob/main/netlist.rtf")
+## Conclusion
+
+Thus the opamp was designed using the tools and suite of Synopsys Custom Compiler™ and simulated and analysed through the PrimeWave™ Design Environment. For the given voltage supply of 2.5mVac@100KHz we get 0.07Vac as output.
+
+## Author
+
+Abishek R, Bachelors degree in Electronics and Communication Engineering at Madras Institute of Technology, Anna University.
+
+## Acknowledgement
+
+* Kunal Ghosh, VSD Corp. Pvt. Ltd.
+* Chinmay Panda, IITH.
+* Mr. Sumanto Kar IITB.
+* Mr. Sameer S Durgoji from NITK.
+* Synopsys Team.
+* IITH.
+
+## References
+
+   * Microelectronics: Circuit Analysis & Design. -Donald A. Neamen
+   * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-fall-2009/lecture-notes/MIT6_012F09lec20_loads.pdf
+   * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-spring-2009/recitations/MIT6_012509_rec25.pdf
+   * https://inst.eecs.berkeley.edu/~ee105/sp08/lectures/lecture19_2.pdf
