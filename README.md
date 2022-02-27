@@ -1,4 +1,4 @@
-# Op_Amp
+# Operational Amplifier
 This is the detailed report about the design of operational amplifier. This design was done during Cloud based Analog IC Hackathon conducted by IIT-Hyderabad and VSD Corp.
 
 ## Contents
