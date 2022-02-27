@@ -144,10 +144,10 @@ The simulation of the opamp circuit was obtained through PrimeWave™ Design Env
 
 ### netlist.txt
 
-> *  Generated for: PrimeSim
-> *  Design library name: Abishek
-> *  Design cell name: opamp
-> *  Design view name: schematic
+> *Generated for: PrimeSim
+> *Design library name: Abishek
+> *Design cell name: opamp
+> *Design view name: schematic
 > .lib 'saed32nm.lib' TT
 > 
 > *Custom Compiler Version S-2021.09
@@ -155,11 +155,11 @@ The simulation of the opamp circuit was obtained through PrimeWave™ Design Env
 > 
 > .global gnd! vdd!
 > ********************************************************************************
-> * Library          : Abishek
-> * Cell             : inv
-> * View             : schematic
-> * View Search List : hspice hspiceD schematic spice veriloga
-> * View Stop List   : hspice hspiceD
+> *Library          : Abishek
+> *Cell             : inv
+> *View             : schematic
+> *View Search List : hspice hspiceD schematic spice veriloga
+> *View Stop List   : hspice hspiceD
 > ********************************************************************************
 > .subckt inv v1 vdd vss cin nv1 vt_bulk_n_gnd!
 > xm4 net11 cin vss vt_bulk_n_gnd! n105 w=0.1u l=0.03u nf=1 m=1
@@ -172,11 +172,11 @@ The simulation of the opamp circuit was obtained through PrimeWave™ Design Env
 > .ends inv
 > 
 > ********************************************************************************
-> * Library          : Abishek
-> * Cell             : diff
-> * View             : schematic
-> * View Search List : hspice hspiceD schematic spice veriloga
-> * View Stop List   : hspice hspiceD
+> *Library          : Abishek
+> *Cell             : diff
+> *View             : schematic
+> *View Search List : hspice hspiceD schematic spice veriloga
+> *View Stop List   : hspice hspiceD
 > ********************************************************************************
 > .subckt diff v1 vdd vss cin diff_vout nv1 vt_bulk_n_gnd! vt_bulk_p_vdd!
 > xm1 net7 net7 vdd vt_bulk_p_vdd! p105 w=0.1u l=0.03u nf=1 m=1
@@ -189,11 +189,11 @@ The simulation of the opamp circuit was obtained through PrimeWave™ Design Env
 > .ends diff
 > 
 > ********************************************************************************
-> * Library          : Abishek
-> * Cell             : gain_stage
-> * View             : schematic
-> * View Search List : hspice hspiceD schematic spice veriloga
-> * View Stop List   : hspice hspiceD
+> *Library          : Abishek
+> *Cell             : gain_stage
+> *View             : schematic
+> *View Search List : hspice hspiceD schematic spice veriloga
+> *View Stop List   : hspice hspiceD
 > ********************************************************************************
 > .subckt gain_stage cin vdd vin vss voutt vt_bulk_n_gnd! vt_bulk_p_vdd!
 > xm2 net11 net11 vdd vt_bulk_p_vdd! p105 w=1u l=0.05u nf=1 m=1
@@ -203,11 +203,11 @@ The simulation of the opamp circuit was obtained through PrimeWave™ Design Env
 > .ends gain_stage
 > 
 > ********************************************************************************
-> * Library          : Abishek
-> * Cell             : output
-> * View             : schematic
-> * View Search List : hspice hspiceD schematic spice veriloga
-> * View Stop List   : hspice hspiceD
+> *Library          : Abishek
+> *Cell             : output
+> *View             : schematic
+> *View Search List : hspice hspiceD schematic spice veriloga
+> *View Stop List   : hspice hspiceD
 > ********************************************************************************
 > .subckt output cin vdd vin vout vss vt_bulk_n_gnd! vt_bulk_p_vdd!
 > xm3 net13 net13 vdd vt_bulk_p_vdd! p105 w=0.1u l=0.03u nf=1 m=1
@@ -217,11 +217,11 @@ The simulation of the opamp circuit was obtained through PrimeWave™ Design Env
 > .ends output
 > 
 > ********************************************************************************
-> * Library          : Abishek
-> * Cell             : opamp
-> * View             : schematic
-> * View Search List : hspice hspiceD schematic spice veriloga
-> * View Stop List   : hspice hspiceD
+> *Library          : Abishek
+> *Cell             : opamp
+> *View             : schematic
+> *View Search List : hspice hspiceD schematic spice veriloga
+> *View Stop List   : hspice hspiceD
 > ********************************************************************************
 > xi0 vinput net35 net14 net41 net23 gnd! inv
 > xi1 vinput net35 net14 net41 net25 net22 gnd! vdd! diff
