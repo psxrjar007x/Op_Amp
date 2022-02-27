@@ -12,7 +12,7 @@ This is the detailed report about the design of operational amplifier. This desi
 * [Netlist](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#netlist)
 * [Conclusion](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#conclusion)
 * [Author](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#author)
-* [Acknowledgement]()
+* [Acknowledgement](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#acknowledgement)
 * [References]()
 
 ## Introduction
