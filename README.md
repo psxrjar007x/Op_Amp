@@ -43,7 +43,8 @@ This is the detailed report about the design of operational amplifier. This desi
 
 ### Waveform
 
-<img width="393" alt="Screenshot 2022-02-27 at 11 23 44 PM" src="https://user-images.githubusercontent.com/100516989/155893786-a9cfa4ea-1353-453e-a385-7058a0de1d85.png">
+<img width="541" alt="Screenshot 2022-02-28 at 12 16 09 AM" src="https://user-images.githubusercontent.com/100516989/155895482-8a6ddeac-9852-4921-8e40-f5809ed065b1.png">
+
 
 ## Tools Used
    * Synopsys Custom Compiler : A design environment which used for full-custom analog, custom digital, and mixed-signal IC design.
