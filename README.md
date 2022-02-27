@@ -2,4 +2,12 @@
 IITH_&amp;_Synopsys_Hackathon
 
 ## Contents
-* Introduction
+* [Introduction]()
+* [Circuit Implementation]()
+* [Tools Used]()
+* [Schematics]()
+* [Simulation & Waveform]()
+* [Conclusion]()
+* [Author]()
+* [Acknowledgement]()
+* [References]()
