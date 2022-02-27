@@ -5,7 +5,7 @@ This is the detailed report about the design of operational amplifier. This desi
 * [Introduction](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#introduction)
 * [Circuit Implementation](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#circuit-implementation)
 * [Tools Used](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#tools-used)
-* [Schematics]()
+* [Schematics](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#schematics)
 * [Simulation & Waveform]()
 * [Conclusion]()
 * [Author]()
@@ -37,4 +37,4 @@ A common source mode with active load is used to produce necessary gain and for 
 * Synopsys 28 nm PDK : A process design kit which has a comprehensive collection of 28nm transistor sets and libraries.
 
 ## Schematics
-
+The schematics of the [differential stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#differential-stage), [gain stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#gain--output-stage) and [Output stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#gain--output-stage) circuits were designed using the Synopsys’ PrimeSim™ HSPICE® powered schematic editor.
