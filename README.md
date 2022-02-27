@@ -17,7 +17,7 @@ An operational amplifier was designed using 28nm process.Focusing on single inpu
 
 ## Circuit Implementation
 The circuit mainly consists of three main stages;
-* [Differential stage]
+* [Differential stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#differential-stage)
     * Inverting 
     * Differential pair
 * [Gain stage]
