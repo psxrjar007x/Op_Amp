@@ -4,7 +4,7 @@ This is the detailed report about the design of operational amplifier. This desi
 ## Contents
 * [Introduction](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#introduction)
 * [Circuit Implementation](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#circuit-implementation)
-* [Tools Used]()
+* [Tools Used](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#tools-used)
 * [Schematics]()
 * [Simulation & Waveform]()
 * [Conclusion]()
@@ -35,3 +35,6 @@ A common source mode with active load is used to produce necessary gain and for 
 * Synopsys Custom Compiler : A design environment which used for full-custom analog, custom digital, and mixed-signal IC design.
 * Synopsys Primewave : For simulating the designed circuits under different conditions and time scales.
 * Synopsys 28 nm PDK : A process design kit which has a comprehensive collection of 28nm transistor sets and libraries.
+
+## Schematics
+
