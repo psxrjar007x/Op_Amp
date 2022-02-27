@@ -34,6 +34,16 @@ This is the detailed report about the design of operational amplifier. This desi
 ### Gain & Output stage 
    A common source mode with active load is used to produce necessary gain and for output stage i.e. to get very low output impedance, an nmos transistor was biased using current mirror and the expected output is taken from the source of the nmos transistor.
 
+## Reference Circuit & otput waveform
+
+### Circuit 
+
+<img width="1349" alt="Screenshot 2022-02-27 at 11 12 12 PM" src="https://user-images.githubusercontent.com/100516989/155893436-9e21fdd8-61b6-4b7e-b0be-f7bf4b47b13d.png">
+
+### Waveform
+
+<img width="393" alt="Screenshot 2022-02-27 at 11 23 44 PM" src="https://user-images.githubusercontent.com/100516989/155893786-a9cfa4ea-1353-453e-a385-7058a0de1d85.png">
+
 ## Tools Used
    * Synopsys Custom Compiler : A design environment which used for full-custom analog, custom digital, and mixed-signal IC design.
    * Synopsys Primewave : For simulating the designed circuits under different conditions and time scales.
