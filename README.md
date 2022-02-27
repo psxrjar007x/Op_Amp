@@ -37,7 +37,7 @@ A common source mode with active load is used to produce necessary gain and for 
 * Synopsys 28 nm PDK : A process design kit which has a comprehensive collection of 28nm transistor sets and libraries.
 
 ## Schematics & Symbols
-The schematics and symbols for the [differential stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#differential-stage-1), [gain stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#gain-stage) and [Output stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#gain--output-stage) circuits were designed using the Synopsys’ PrimeSim™ HSPICE® powered schematic editor.
+The schematics and symbols for the [differential stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#differential-stage-1), [gain stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#gain-stage) and [Output stage](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#output-stage) circuits were designed using the Synopsys’ PrimeSim™ HSPICE® powered schematic editor.
 
 ### Differential Stage
 
