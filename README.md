@@ -17,7 +17,13 @@ An operational amplifier was designed using 28nm process.Focusing on single inpu
 
 ## Circuit Implementation
 The circuit mainly consists of three main stages;
-* Differential stage
-    * inverting 
-    * differential
-*         
+* [Differential stage]
+    * Inverting 
+    * Differential pair
+* [Gain stage]
+* Output stage]
+
+### Differential stage
+This stage has two sub stages an [inverting] and an actual [differential pair] stages.
+#### Inverting
+
