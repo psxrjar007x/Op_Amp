@@ -165,6 +165,6 @@ Abishek R, Bachelors degree in Electronics and Communication Engineering at Madr
 ## References
 
    * Microelectronics: Circuit Analysis & Design. -Donald A. Neamen
-   * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-fall-2009/lecture-notes/MIT6_012F09lec20_loads.pdf
-   * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-spring-2009/recitations/MIT6_012509_rec25.pdf
+   * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-fall-2009/lecture-notes/MIT6_012F09_lec20_loads.pdf
+   * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-spring-2009/recitations/MIT6_012S09_rec25.pdf
    * https://inst.eecs.berkeley.edu/~ee105/sp08/lectures/lecture19_2.pdf
