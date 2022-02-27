@@ -21,9 +21,12 @@ The circuit mainly consists of three main stages;
     * Inverting 
     * Differential pair
 * [Gain stage]
-* Output stage]
+* [Output stage]
 
 ### Differential stage
-This stage has two sub stages an [inverting] and an actual [differential pair] stages.
+This stage has two sub stages an [inverting](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#inverting) and an actual differential pair stages.
 #### Inverting
+This stage has a small signal voltage gain equals to negative one
 
+### Gain & Output stage 
+A common source mode with active load is used to produce necessary gain and for output stage i.e. to get very low output impedance, an nmos transistor was biased using current mirror and the expected output is taken from the source of the nmos transistor.
