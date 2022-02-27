@@ -1,5 +1,5 @@
 # Op_Amp
-IITH_&amp;_Synopsys_Hackathon
+This is the detailed report about the design of operational amplifier. This design was done during Cloud based Analog IC Hackathon conducted by IIT-Hyderabad and VSD Corp.
 
 ## Contents
 * [Introduction]()
@@ -11,3 +11,5 @@ IITH_&amp;_Synopsys_Hackathon
 * [Author]()
 * [Acknowledgement]()
 * [References]()
+
+##Introduction
