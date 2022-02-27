@@ -13,7 +13,7 @@ This is the detailed report about the design of operational amplifier. This desi
 * [Conclusion](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#conclusion)
 * [Author](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#author)
 * [Acknowledgement](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#acknowledgement)
-* [References]()
+* [References](https://github.com/psxrjar007x/Op_Amp/blob/main/README.md#acknowledgement)
 
 ## Introduction
    An operational amplifier was designed using 28nm process.Focusing on single input single output and minimising noise. The minimum input voltage swing may be in the order of millivolts and is the output is expected (theoretically) in few volts.
